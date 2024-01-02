@@ -1,2 +1,2 @@
 # alx-backend
-A collection of projects for learning back end development with JavaScript.  Topics
+A collection of projects for learning back end development with JavaScript and python.
